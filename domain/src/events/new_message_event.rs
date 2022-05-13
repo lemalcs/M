@@ -1,0 +1,3 @@
+struct NewMessageEvent{
+    message: MessageHeader,
+}
